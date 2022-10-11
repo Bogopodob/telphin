@@ -5,11 +5,6 @@ Unofficial php-api-SDK!
 Официальная документация telphin - https://ringme-confluence.atlassian.net/wiki/spaces/Ringme/overview
 Интерактивный обозреватель Api - https://apiproxy.telphin.ru/api/ver1.0/client_api_explorer/
 
-# В РАЗРАБОТКЕ!
-```
-composer require telphin/api-client:dev-master
-```
-
 # Подключение
 Перед началом использования подключите autoload композера.
 Основной класс для работы подключается следующим образом
